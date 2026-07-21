@@ -21,18 +21,15 @@ Follow these instructions on how to set up the project locally:
 
 1. Clone the repository:
    ```bash
-
-   git clone [https://github.com/valerij0412/layout_landing_page.git](https://github.com/valerij0412/layout_landing_page.git)
+   git clone https://github.com/valerij0412/layout_landing_page.git
    cd layout_landing_page
 
  Install dependencies:
 
-Bash
 npm install
 
 Run the project locally:
 
-Bash
 npm start
 
 Features
