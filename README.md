@@ -24,18 +24,20 @@ Follow these instructions on how to set up the project locally:
    git clone https://github.com/valerij0412/layout_landing_page.git
    cd layout_landing_page
 
- Install dependencies:
+Install dependencies:
 
+```bash
 npm install
+```
 
 Run the project locally:
 
+```bash
 npm start
+```
 
-Features
+## Features
+* Fully responsive layout adapted for mobile, tablet, and desktop viewports.
+* Modular SCSS file structure with reusable mixins and variables.
+* Optimized assets and modern build pipeline via Parcel.
 
-Fully responsive layout adapted for mobile, tablet, and desktop viewports.
-
-Modular SCSS file structure with reusable mixins and variables.
-
-Optimized assets and modern build pipeline via Parcel.
