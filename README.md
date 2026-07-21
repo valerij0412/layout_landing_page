@@ -6,7 +6,7 @@ A clean, modern, and fully responsive landing page built with modern web develop
 [View Live Preview](https://valerij0412.github.io/layout_landing_page/)
 
 ## Design Reference
-[Figma Design File]([https://www.figma.com](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&p=f&t=XkGEIB0lFGVUjTEw-0)) 
+[Figma Design File](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&p=f&t=xkGEIB0lFGVUjTEw-0)
 
 ## Technologies Used
 * HTML5 / Semantic Layout
